@@ -2,7 +2,7 @@
 Cool software engineering course
 
 #Tasks
-
+-Soon
 
 # About me
 - Soon
@@ -11,16 +11,4 @@ Cool software engineering course
 - Soon
 
 # About program
-
-C#
-HTML5
-CSS3
-JavaScript
-AngularJS 
-NodeJS 
-Web Services & Cloud Technologies 
-Databases 
-Hybrid Mobile Applications 
-ASP.NET WebForms
-ASP.NET WebAPI 2.0 
-ASP.NET MVC
+- Soon
