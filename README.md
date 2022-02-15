@@ -11,4 +11,4 @@ Cool software engineering course
 - Soon
 
 # About program
-- Soon
+- Soon!
