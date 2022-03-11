@@ -1,6 +1,8 @@
 # Software-Engineering-Course
 Cool software engineering course
 
+Links to every course with description about Lab and Exercise
+
 #Tasks
 -Soon
 
