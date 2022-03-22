@@ -16,10 +16,10 @@ Links to every course with description about Lab and Exercise
 - Soon!
 
 
-|Theme              |Task            |Done           |
+|      Theme        |     Task       |     Done      |
 | ----------------- | -------------- | ------------- |
-|     Weather       |   Processing   |     Almost    |
-|        .          |       1        |         5     |
+|        C#         |     Arrays     |     Done      |
+|        JS         |       DOM      |     Done      |
 |                   |                |               |
 |                   |                |               |
 
