@@ -9,7 +9,7 @@ Links to every course with description - Lab/Exercise
 # About me
 - Soon
 
-### Announcements:
+# Announcements:
 - Soon
 
 # About program
