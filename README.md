@@ -1,10 +1,10 @@
 # Software-Engineering-Course
 Cool software engineering course
 
-Links to every course with description about Lab and Exercise
+Links to every course with description - Lab/Exercise
 
-#Tasks
--Soon
+# Tasks
+- Soon
 
 # About me
 - Soon
@@ -15,12 +15,10 @@ Links to every course with description about Lab and Exercise
 # About program
 - Soon!
 
-
 | Theme |  Task  | Process |
-| ----- | ------ | ------- |
+| :-    | :-:    | -:      |
 |  C#   | Arrays |  Done   |
 |  JS   |  DOM   |  Done   |
-
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
