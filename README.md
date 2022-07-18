@@ -1,19 +1,51 @@
 # Software-Engineering-Course
 
-| Topics | Hours |
+| Topics - C# Advanced | Hours |
 | ------ | ------ |
-|Syntax, Functions and Statements | 3 |
+| Basic Syntax, Conditional Statements and Loops | 3 |
+| Data Types and Variables | 3 |
+| HTTP Basics | 3 |
+| Arrays | 3 |
+| HTML and CSS Basics | 3 |
+| Methods | 3 |
+| Software Development Concepts - Part 1 | 3 |
+| Lists | 3 |
+| Software Development Concepts - Part 2 | 3 |
+| Objects and Classes | 3 |
+| Bitwise Operations | 3 |
+| Associative Arrays | 3 |
+| Problem Solving | 3 |
+| Text Processing | 3 |
+| Database Basics | 3 |
+| Git and GitHub | 3 |
+
+| Topics - C# OOP | Hours |
+| ------ | ------ |
+| Inheritance | 3 |
+| Encapsulation | 3 |
+| Interfaces and Abstraction | 3 |
+| Polymorphism | 3 |
+| Exception Handling | 3 |
+| SOLID | 3 |
+| Reflection and Attributes | 3 |
+| Unit Testing | 3 |
+| Mocking and Test Driven Development | 3 |
+| Design Patterns | 3 |
+
+| Topics - JS Advanced | Hours |
+| ------ | ------ |
+| Syntax, Functions and Statements | 3 |
 | HTTP and REST Services | 3 |
 | Arrays and Nested Arrays | 3 |
-|Objects and Composition | 3 |
+| Objects and Composition | 3 |
 | DOM Introduction | 3 |
-|DOM Manipulations and Events | 3 |
+| DOM Manipulations and Events | 3 |
 | Advanced Functions | 3 |
 | Unit Testing and Error Handling | 3 |
 | Classes | 3 |
 | Prototypes and Inheritance | 3 |
 
-| Topics | Hours |
+| Topics - JS Applictions | Hours |
 | ------ | ------ |
 | HTTP and REST Services | 3 |
 | Asynchronous Programming | 3 |
@@ -23,3 +55,14 @@
 | Client Side Rendering | 3 |
 | Routing | 3 |
 | Modular Applications | 3 |
+
+| Topics - ReactJS | Hours |
+| ------ | ------ |
+| Intro to React and JSX | 3 |
+| Components: Basic Idea | 3 |
+| Components: Deep Dive | 3 |
+| Routing | 3 |
+| Forms | 3 |
+| React Hooks | 3 |
+| Advanced Techniques | 3 |
+| Workshops | 9 |
