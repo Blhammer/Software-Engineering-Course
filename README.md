@@ -60,6 +60,19 @@
 | Routing | 3 |
 | Modular Applications | 3 |
 
+| Topics - JS Back-End | Hours |
+| ------ | ------ |
+| Intro to Node.js | 3 |
+| Node.js Streams and Utilities | 3 |
+| ExpressJS and Templating | 3 |
+| Workshop: ExpressJS and Templating | 3 |
+| NoSQL and MongoDB | 3 |
+| Workshop: MongoDB and Mongoose | 3 |
+| Session and Authentication | 3 |
+| Workshop: Session and Authentication | 3 |
+| Validation and Error Handling | 3 |
+| Workshop: REST API | 3 |
+
 | Topics - ReactJS | Hours |
 | ------ | ------ |
 | Intro to React and JSX | 3 |
