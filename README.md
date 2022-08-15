@@ -1,5 +1,9 @@
 # Software-Engineering-Course
 
+Expect changes soon !!!
+Expect changes soon !!!
+Expect changes soon !!!
+
 | Topics - C# Advanced | Hours |
 | ------ | ------ |
 | Basic Syntax, Conditional Statements and Loops | 3 |
