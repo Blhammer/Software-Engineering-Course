@@ -133,12 +133,11 @@ namespace _1._Dijkstra_s_Algorithm
                 Console.WriteLine(string.Join(" ", path));
             }
         }
-
-        public class Edge
-        {
-            public int First { get; set; }
-            public int Second { get; set; }
-            public int Weight { get; set; }
-        }
+    }
+    public class Edge
+    {
+        public int First { get; set; }
+        public int Second { get; set; }
+        public int Weight { get; set; }
     }
 }
