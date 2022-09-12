@@ -83,3 +83,13 @@
 | React Hooks | 3 |
 | Advanced Techniques | 3 |
 | Workshops | 9 |
+
+| Topics - Algorithms Advanced with C# | Hours |
+| ------ | ------ |
+| Graphs Dijkstra, MST | 3 |
+| Graphs Bellman-Ford, Longest Path in (DAG) | 3 |
+| Exercise: Graphs Bellman-Ford, Longest Path in (DAG) | 3 |
+| Graphs Strongly Connected Components, Max Flow | 3 |
+| Exercise: Graphs Strongly Connected Components, Max Flow | 3 |
+| Dynamic Programming Advanced | 3 |
+| Exercise: Dynamic Programming Advanced | 3 |
