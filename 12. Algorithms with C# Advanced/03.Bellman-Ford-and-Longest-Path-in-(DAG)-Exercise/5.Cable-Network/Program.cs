@@ -2,7 +2,6 @@
 using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
-using Microsoft.VisualBasic;
 using Wintellect.PowerCollections;
 
 namespace MyApp
