@@ -1,8 +1,6 @@
 # Software-Engineering-Course
 
-- Expect changes soon !!!
-- Expect changes soon !!!
-- Expect changes soon !!!
+- Expect changes soon and links!
 
 | Topics - C# Advanced | Hours |
 | ------ | ------ |
