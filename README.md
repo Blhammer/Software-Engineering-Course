@@ -1,5 +1,7 @@
 # Software-Engineering-Course
 
+All new things and courses I have been participated in will be announced here!
+
 - Expect changes soon and links!
 
 | Topics - C# Advanced | Hours |
