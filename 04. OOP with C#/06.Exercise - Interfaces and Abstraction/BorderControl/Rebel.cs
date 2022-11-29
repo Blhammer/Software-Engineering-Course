@@ -2,7 +2,6 @@
 {
     public class Rebel : IBuyer
     {
-        // 6.Food Shortage
         public Rebel(string name, int age, string group)
         {
             Name = name;

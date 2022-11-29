@@ -15,10 +15,12 @@ namespace Shapes
         public void Draw()
         {
             DrawLine('*', '*');
+
             for (int i = 0; i < height - 2; i++)
             {
                 DrawLine('*', ' ');
             }
+
             DrawLine('*', '*');
         }
 

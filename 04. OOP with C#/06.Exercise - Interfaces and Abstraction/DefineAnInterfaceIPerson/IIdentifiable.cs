@@ -1,6 +1,6 @@
 ﻿namespace PersonInfo
 {
-    public interface IIdentifiable //2. Multiple Implementation
+    public interface IIdentifiable
     {
         string Id { get; set; }
     }

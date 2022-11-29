@@ -4,7 +4,6 @@ namespace BorderControl
 {
     public class Pet : ICelebratable
     {
-        // 5.Birthday Celebrations
         public Pet(string name, string birthdate)
         {
             Name = name;
