@@ -27,8 +27,6 @@ namespace Fixing
                     Console.WriteLine(e.Message);
                 }
             }
-
-            Console.ReadLine();
         }
     }
 }
