@@ -2,7 +2,7 @@
 
 All new things and courses I have been participated in will be announced here!
 
-- Expect changes soon and links!
+- Expect changes and updates soon and links as well!
 
 | Topics - C# Advanced | Hours |
 | ------ | ------ |
@@ -93,5 +93,3 @@ All new things and courses I have been participated in will be announced here!
 | Exercise: Graphs Strongly Connected Components, Max Flow | 3 |
 | Dynamic Programming Advanced | 3 |
 | Exercise: Dynamic Programming Advanced | 3 |
-
-uopdates soon
