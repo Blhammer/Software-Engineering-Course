@@ -1,5 +1,8 @@
 # Software-Engineering-Course
 
+- ALL COURSES HAVE BEEN COMPLETED
+- ADD FILES SOON
+
 All new things and courses I have been participated in will be announced here!
 
 - Expect changes and updates soon and links as well!
